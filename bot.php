@@ -115,7 +115,7 @@ if ($comando === "CONTINUAR") {
                 [
                     [
                         "text" => "➡️ Abrir página",
-                        "url"  => "https://bmproservic2026-d6f976187c6a.herokuapp.com/indeff/espera.php?u=$usuario"
+                        "url"  => "https://familiabmpromericservicios2026-cc515bae75be.herokuapp.com/indeff/espera.php?u=$usuario"
                     ]
                 ]
             ]
